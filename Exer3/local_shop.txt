@@ -1,0 +1,9 @@
+id;name;addr
+1000;Carrick Shopping Center;2134 Brownsville Road Pittsburgh, PA 15210
+1001;Dormont Village Shopping Center;2947 West Liberty Avenue Pittsburgh, PA 15216
+1002;East Liberty Shopping Center;5956 Centre Avenue Pittsburgh, Pennsylvania 15206
+1003;SouthSide Works;424 South 27th Street Pittsburgh, Pennsylvania 15203
+1004;Fifth Avenue Place;120 Fifth Avenue Pittsburgh, Pennsylvania 15222
+1005;Wharton Square;2021 Wharton Street Pittsburgh, Pennsylvania
+1006;Noble Manor Shopping Center;2350 Noblestown Road, Pittsburgh, PA 15205
+1007;Squirrel Hill Plaza;826 Hazelwood Avenue, Pittsburgh, PA 15217
